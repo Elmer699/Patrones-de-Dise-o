@@ -1,0 +1,8 @@
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\ImpleMediator\ImpleMediator\bin\Debug\ImpleMediator.exe.config
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\ImpleMediator\ImpleMediator\bin\Debug\ImpleMediator.exe
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\ImpleMediator\ImpleMediator\bin\Debug\ImpleMediator.pdb
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\ImpleMediator\ImpleMediator\obj\Debug\ImpleMediator.csproj.AssemblyReference.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\ImpleMediator\ImpleMediator\obj\Debug\ImpleMediator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\ImpleMediator\ImpleMediator\obj\Debug\ImpleMediator.csproj.CoreCompileInputs.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\ImpleMediator\ImpleMediator\obj\Debug\ImpleMediator.exe
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\ImpleMediator\ImpleMediator\obj\Debug\ImpleMediator.pdb

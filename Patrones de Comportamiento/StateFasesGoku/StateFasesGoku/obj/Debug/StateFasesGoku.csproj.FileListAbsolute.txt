@@ -1,0 +1,8 @@
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\StateFasesGoku\StateFasesGoku\bin\Debug\StateFasesGoku.exe.config
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\StateFasesGoku\StateFasesGoku\bin\Debug\StateFasesGoku.exe
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\StateFasesGoku\StateFasesGoku\bin\Debug\StateFasesGoku.pdb
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\StateFasesGoku\StateFasesGoku\obj\Debug\StateFasesGoku.csproj.AssemblyReference.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\StateFasesGoku\StateFasesGoku\obj\Debug\StateFasesGoku.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\StateFasesGoku\StateFasesGoku\obj\Debug\StateFasesGoku.csproj.CoreCompileInputs.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\StateFasesGoku\StateFasesGoku\obj\Debug\StateFasesGoku.exe
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\StateFasesGoku\StateFasesGoku\obj\Debug\StateFasesGoku.pdb

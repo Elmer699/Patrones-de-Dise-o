@@ -1,0 +1,11 @@
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\CommandForm\CommandForm\bin\Debug\CommandForm.exe.config
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\CommandForm\CommandForm\bin\Debug\CommandForm.exe
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\CommandForm\CommandForm\bin\Debug\CommandForm.pdb
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\CommandForm\CommandForm\obj\Debug\CommandForm.csproj.AssemblyReference.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\CommandForm\CommandForm\obj\Debug\CommandForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\CommandForm\CommandForm\obj\Debug\CommandForm.Form1.resources
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\CommandForm\CommandForm\obj\Debug\CommandForm.Properties.Resources.resources
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\CommandForm\CommandForm\obj\Debug\CommandForm.csproj.GenerateResource.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\CommandForm\CommandForm\obj\Debug\CommandForm.csproj.CoreCompileInputs.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\CommandForm\CommandForm\obj\Debug\CommandForm.exe
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\CommandForm\CommandForm\obj\Debug\CommandForm.pdb

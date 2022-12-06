@@ -1,0 +1,16 @@
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\CampObserver\CampObserver\bin\Debug\CampObserver.exe.config
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\CampObserver\CampObserver\bin\Debug\CampObserver.exe
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\CampObserver\CampObserver\bin\Debug\CampObserver.pdb
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\CampObserver\CampObserver\obj\Debug\CampObserver.csproj.AssemblyReference.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\CampObserver\CampObserver\obj\Debug\CampObserver.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\CampObserver\CampObserver\obj\Debug\CampObserver.csproj.CoreCompileInputs.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\CampObserver\CampObserver\obj\Debug\CampObserver.exe
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\CampObserver\CampObserver\obj\Debug\CampObserver.pdb
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\Patrones de Comportamiento\ObserverCampamento\CampObserver\bin\Debug\CampObserver.exe.config
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\Patrones de Comportamiento\ObserverCampamento\CampObserver\bin\Debug\CampObserver.exe
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\Patrones de Comportamiento\ObserverCampamento\CampObserver\bin\Debug\CampObserver.pdb
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\Patrones de Comportamiento\ObserverCampamento\CampObserver\obj\Debug\CampObserver.csproj.AssemblyReference.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\Patrones de Comportamiento\ObserverCampamento\CampObserver\obj\Debug\CampObserver.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\Patrones de Comportamiento\ObserverCampamento\CampObserver\obj\Debug\CampObserver.csproj.CoreCompileInputs.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\Patrones de Comportamiento\ObserverCampamento\CampObserver\obj\Debug\CampObserver.exe
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\Patrones de Comportamiento\ObserverCampamento\CampObserver\obj\Debug\CampObserver.pdb

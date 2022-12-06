@@ -1,0 +1,8 @@
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\RoyaleStrategy\RoyaleStrategy\bin\Debug\RoyaleStrategy.exe.config
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\RoyaleStrategy\RoyaleStrategy\bin\Debug\RoyaleStrategy.exe
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\RoyaleStrategy\RoyaleStrategy\bin\Debug\RoyaleStrategy.pdb
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\RoyaleStrategy\RoyaleStrategy\obj\Debug\RoyaleStrategy.csproj.AssemblyReference.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\RoyaleStrategy\RoyaleStrategy\obj\Debug\RoyaleStrategy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\RoyaleStrategy\RoyaleStrategy\obj\Debug\RoyaleStrategy.csproj.CoreCompileInputs.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\RoyaleStrategy\RoyaleStrategy\obj\Debug\RoyaleStrategy.exe
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\RoyaleStrategy\RoyaleStrategy\obj\Debug\RoyaleStrategy.pdb

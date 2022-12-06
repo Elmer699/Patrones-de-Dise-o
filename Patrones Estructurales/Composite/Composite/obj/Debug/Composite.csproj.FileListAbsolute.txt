@@ -1,0 +1,3 @@
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\Composite\Composite\obj\Debug\Composite.csproj.AssemblyReference.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\Composite\Composite\obj\Debug\Composite.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\Composite\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
