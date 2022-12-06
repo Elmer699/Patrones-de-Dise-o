@@ -1,0 +1,8 @@
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\Adapter\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\Adapter\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\Adapter\Adapter\obj\Debug\Adapter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\Adapter\Adapter\obj\Debug\Adapter.exe
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\Adapter\Adapter\obj\Debug\Adapter.pdb

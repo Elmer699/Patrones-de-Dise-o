@@ -1,0 +1,8 @@
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\Starategy\StarategyPatterns\bin\Debug\StarategyPatterns.exe.config
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\Starategy\StarategyPatterns\bin\Debug\StarategyPatterns.exe
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\Starategy\StarategyPatterns\bin\Debug\StarategyPatterns.pdb
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\Starategy\StarategyPatterns\obj\Debug\StarategyPatterns.csproj.AssemblyReference.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\Starategy\StarategyPatterns\obj\Debug\StarategyPatterns.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\Starategy\StarategyPatterns\obj\Debug\StarategyPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\Starategy\StarategyPatterns\obj\Debug\StarategyPatterns.exe
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\Starategy\StarategyPatterns\obj\Debug\StarategyPatterns.pdb

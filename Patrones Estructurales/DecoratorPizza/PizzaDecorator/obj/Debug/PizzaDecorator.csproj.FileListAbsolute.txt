@@ -1,0 +1,8 @@
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\PizzaDecorator\PizzaDecorator\bin\Debug\PizzaDecorator.exe.config
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\PizzaDecorator\PizzaDecorator\bin\Debug\PizzaDecorator.exe
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\PizzaDecorator\PizzaDecorator\bin\Debug\PizzaDecorator.pdb
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\PizzaDecorator\PizzaDecorator\obj\Debug\PizzaDecorator.csproj.AssemblyReference.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\PizzaDecorator\PizzaDecorator\obj\Debug\PizzaDecorator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\PizzaDecorator\PizzaDecorator\obj\Debug\PizzaDecorator.csproj.CoreCompileInputs.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\PizzaDecorator\PizzaDecorator\obj\Debug\PizzaDecorator.exe
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\PizzaDecorator\PizzaDecorator\obj\Debug\PizzaDecorator.pdb

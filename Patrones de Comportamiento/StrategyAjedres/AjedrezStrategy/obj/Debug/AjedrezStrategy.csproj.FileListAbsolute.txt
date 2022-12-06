@@ -1,0 +1,8 @@
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\AjedrezStrategy\AjedrezStrategy\bin\Debug\AjedrezStrategy.exe.config
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\AjedrezStrategy\AjedrezStrategy\bin\Debug\AjedrezStrategy.exe
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\AjedrezStrategy\AjedrezStrategy\bin\Debug\AjedrezStrategy.pdb
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\AjedrezStrategy\AjedrezStrategy\obj\Debug\AjedrezStrategy.csproj.AssemblyReference.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\AjedrezStrategy\AjedrezStrategy\obj\Debug\AjedrezStrategy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\AjedrezStrategy\AjedrezStrategy\obj\Debug\AjedrezStrategy.csproj.CoreCompileInputs.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\AjedrezStrategy\AjedrezStrategy\obj\Debug\AjedrezStrategy.exe
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\AjedrezStrategy\AjedrezStrategy\obj\Debug\AjedrezStrategy.pdb

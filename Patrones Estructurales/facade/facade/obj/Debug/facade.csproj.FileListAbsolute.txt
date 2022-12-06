@@ -1,0 +1,16 @@
+C:\Users\ximen\source\repos\facade\facade\bin\Debug\facade.exe.config
+C:\Users\ximen\source\repos\facade\facade\bin\Debug\facade.exe
+C:\Users\ximen\source\repos\facade\facade\bin\Debug\facade.pdb
+C:\Users\ximen\source\repos\facade\facade\obj\Debug\facade.csproj.AssemblyReference.cache
+C:\Users\ximen\source\repos\facade\facade\obj\Debug\facade.csproj.SuggestedBindingRedirects.cache
+C:\Users\ximen\source\repos\facade\facade\obj\Debug\facade.csproj.CoreCompileInputs.cache
+C:\Users\ximen\source\repos\facade\facade\obj\Debug\facade.exe
+C:\Users\ximen\source\repos\facade\facade\obj\Debug\facade.pdb
+C:\Users\Elmer\Desktop\facade\facade\bin\Debug\facade.exe.config
+C:\Users\Elmer\Desktop\facade\facade\bin\Debug\facade.exe
+C:\Users\Elmer\Desktop\facade\facade\bin\Debug\facade.pdb
+C:\Users\Elmer\Desktop\facade\facade\obj\Debug\facade.csproj.AssemblyReference.cache
+C:\Users\Elmer\Desktop\facade\facade\obj\Debug\facade.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elmer\Desktop\facade\facade\obj\Debug\facade.csproj.CoreCompileInputs.cache
+C:\Users\Elmer\Desktop\facade\facade\obj\Debug\facade.exe
+C:\Users\Elmer\Desktop\facade\facade\obj\Debug\facade.pdb

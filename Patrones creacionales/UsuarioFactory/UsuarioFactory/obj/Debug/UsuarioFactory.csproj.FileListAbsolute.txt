@@ -1,0 +1,8 @@
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\UsuarioFactory\UsuarioFactory\bin\Debug\UsuarioFactory.exe.config
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\UsuarioFactory\UsuarioFactory\bin\Debug\UsuarioFactory.exe
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\UsuarioFactory\UsuarioFactory\bin\Debug\UsuarioFactory.pdb
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\UsuarioFactory\UsuarioFactory\obj\Debug\UsuarioFactory.csproj.AssemblyReference.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\UsuarioFactory\UsuarioFactory\obj\Debug\UsuarioFactory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\UsuarioFactory\UsuarioFactory\obj\Debug\UsuarioFactory.csproj.CoreCompileInputs.cache
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\UsuarioFactory\UsuarioFactory\obj\Debug\UsuarioFactory.exe
+C:\Users\Elmer\Desktop\2-2022\Arquitectura de Software\Patrones de diseño\UsuarioFactory\UsuarioFactory\obj\Debug\UsuarioFactory.pdb

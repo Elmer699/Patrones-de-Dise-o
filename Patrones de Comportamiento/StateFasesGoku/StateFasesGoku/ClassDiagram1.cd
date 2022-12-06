@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StateFasesGoku.Estado">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Estado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateFasesGoku.FaseBlue">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>FaseBlue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateFasesGoku.FaseDios">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>FaseDios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateFasesGoku.SuperSayayin1">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>SuperSayayin1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateFasesGoku.SuperSayayin2">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>SuperSayayin2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateFasesGoku.SuperSayayin3">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>SuperSayayin3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateFasesGoku.Transformacion">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAgAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transformacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateFasesGoku.UltraInstinto">
+    <Position X="9.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>UltraInstinto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

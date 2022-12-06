@@ -1,0 +1,15 @@
+C:\Users\Mena\Desktop\U Sexto Sem\Arq. del Software\CoREjemplo\bin\Debug\net6.0\CoREjemplo.exe
+C:\Users\Mena\Desktop\U Sexto Sem\Arq. del Software\CoREjemplo\bin\Debug\net6.0\CoREjemplo.deps.json
+C:\Users\Mena\Desktop\U Sexto Sem\Arq. del Software\CoREjemplo\bin\Debug\net6.0\CoREjemplo.runtimeconfig.json
+C:\Users\Mena\Desktop\U Sexto Sem\Arq. del Software\CoREjemplo\bin\Debug\net6.0\CoREjemplo.dll
+C:\Users\Mena\Desktop\U Sexto Sem\Arq. del Software\CoREjemplo\bin\Debug\net6.0\CoREjemplo.pdb
+C:\Users\Mena\Desktop\U Sexto Sem\Arq. del Software\CoREjemplo\obj\Debug\net6.0\CoREjemplo.csproj.AssemblyReference.cache
+C:\Users\Mena\Desktop\U Sexto Sem\Arq. del Software\CoREjemplo\obj\Debug\net6.0\CoREjemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mena\Desktop\U Sexto Sem\Arq. del Software\CoREjemplo\obj\Debug\net6.0\CoREjemplo.AssemblyInfoInputs.cache
+C:\Users\Mena\Desktop\U Sexto Sem\Arq. del Software\CoREjemplo\obj\Debug\net6.0\CoREjemplo.AssemblyInfo.cs
+C:\Users\Mena\Desktop\U Sexto Sem\Arq. del Software\CoREjemplo\obj\Debug\net6.0\CoREjemplo.csproj.CoreCompileInputs.cache
+C:\Users\Mena\Desktop\U Sexto Sem\Arq. del Software\CoREjemplo\obj\Debug\net6.0\CoREjemplo.dll
+C:\Users\Mena\Desktop\U Sexto Sem\Arq. del Software\CoREjemplo\obj\Debug\net6.0\refint\CoREjemplo.dll
+C:\Users\Mena\Desktop\U Sexto Sem\Arq. del Software\CoREjemplo\obj\Debug\net6.0\CoREjemplo.pdb
+C:\Users\Mena\Desktop\U Sexto Sem\Arq. del Software\CoREjemplo\obj\Debug\net6.0\CoREjemplo.genruntimeconfig.cache
+C:\Users\Mena\Desktop\U Sexto Sem\Arq. del Software\CoREjemplo\obj\Debug\net6.0\ref\CoREjemplo.dll
